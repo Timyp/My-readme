@@ -1,27 +1,10 @@
 <h1 valign="middle">Sylvain Decalogne -- @Timyp</h1>
 
 Hi, i'm a Back-end Developer based in Paris, France. I've always been passionated by computer science, video games and coding.
-I love to learn new technologies and share knowledge with each others.
+I love to learn new technologies and share knowledge with each others. I'm Symfony and Drupal lover.
 
 <div>
- <h2>My skills</h2>
- <ul>
-  <li>* Drupal 7/8/9</li>
-  <li>* Symfony
-  <li>* PHP 5/7 
-  <li>* SQL
-  <li>* PostgreSQL 
-* Javascript
-* Metabase 
-* Git/Gitlab
-* Docker
-* jQuery/UI
-* ElasticSearch
-* Jira
-* Jenkins
 
- </ul>
- 
 </div>
 
 <div>
