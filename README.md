@@ -6,7 +6,6 @@
 </div>
 
 <div align="center">
-<b>### Links</b>
 <a href="http://sylvaindecalogne.fr">- My site</a>&nbsp;&nbsp;
 <a href="https://fr.linkedin.com/in/sylvaindecalogne">- linkedin</a>&nbsp;&nbsp;
 <a href="https://twitter.com/sylvaintimy">- Twitter</a>&nbsp;&nbsp;
@@ -17,5 +16,7 @@
 <h3> Sylvain Decalogne | 💻 Back-end Developer | 🌏 Paris, France </h3>
 
 ### About me
+Coming soon
+
 
 </div>
