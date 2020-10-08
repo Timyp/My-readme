@@ -6,12 +6,28 @@ Hi, i'm a Back-end Developer based in Paris, France. I've always been passionate
 I love to learn new technologies and share knowledge with each others. I'm Symfony and Drupal lover.
 
 <div>
+```js
+import SoftwareDeveloper from 'Timyp';
 
+class Bio extends SoftwareDeveloper {
+  name     = 'Sylvain Decalogne';
+  title    = 'Back-end Developer';
+  company  = 'Planet Media | Remote';
+  location = 'Paris, FR';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['PHP', 'JavaScript', 'HTML', 'CSS'];
+  databases  = ['MySQL', 'PostgreSQL'];
+  frameworks = ['Symfony', 'Laravel'];
+  cms = ['Drupal'];
+}
+```
 </div>
 
 <div>
 <h2>Get in touch</h2> 
-<a href="http://sylvaindecalogne.fr">- My site</a>&nbsp;&nbsp;
+<a href="http://sylvaindecalogne.fr"> My site</a>&nbsp;&nbsp;
 <a href="https://fr.linkedin.com/in/sylvaindecalogne">- linkedin</a>&nbsp;&nbsp;
 <a href="https://twitter.com/sylvaintimy">- Twitter</a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/timyp/">- Instagram</a>&nbsp;&nbsp;
