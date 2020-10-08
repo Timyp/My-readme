@@ -1,5 +1,7 @@
 <h1 valign="middle">Sylvain Decalogne -- @Timyp</h1>
 
+![Screenshot](img.png)
+
 Hi, i'm a Back-end Developer based in Paris, France. I've always been passionated by computer science, video games and coding.
 I love to learn new technologies and share knowledge with each others. I'm Symfony and Drupal lover.
 
