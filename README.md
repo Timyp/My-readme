@@ -22,7 +22,7 @@ class Skills extends SoftwareDeveloper {
   cms = ['Drupal'];
 }
 
-class Skills in progress extends SoftwareDeveloper {
+class SkillsInProgress extends SoftwareDeveloper {
   languages  = ['JavaScript'];
   databases  = ['MongoDB'];
   Environment = ['Node.js'];
