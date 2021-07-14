@@ -21,6 +21,13 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['Symfony'];
   cms = ['Drupal'];
 }
+
+class Skills in progress extends SoftwareDeveloper {
+  languages  = ['JavaScript'];
+  databases  = ['MongoDB'];
+  Environment = ['Node.js'];
+  framework = ['Vue.js'];
+}
 ```
 
 <div>
